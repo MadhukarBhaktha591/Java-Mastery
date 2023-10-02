@@ -1,5 +1,3 @@
-import java.net.SocketPermission;
-
 class Application2{
     public static void main(String[] args){
         String message = "Hello World";  //non-primitive string data type
@@ -36,5 +34,5 @@ class Test{
     int age;    // instance varaibles (variables of class )
     String message;  //store diff value for diff object for same var
     static int height; 
-    
+
 }
