@@ -35,5 +35,6 @@ class Application2{
 class Test{
     int age;    // instance varaibles (variables of class )
     String message;  //store diff value for diff object for same var
-    static int height;
+    static int height; 
+    
 }
